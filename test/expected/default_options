@@ -1,0 +1,16 @@
+/* The following copyright comes from test/fixtures/embeddedCopyright.js */
+/*
+ * Copyright embedded in the source
+ *
+ */
+//  Copyright here as well
+
+/* The following copyright comes from test/fixtures/copyrighted.js */
+/*
+ * Copyright 2014
+ *
+ * This is some fake copyright for the purposes of testing
+ */
+
+/* The following copyright comes from test/fixtures/noCopyright.js */
+
