@@ -1,4 +1,4 @@
-# grunt-extract-copyright
+# grunt-extract-copyright [![Build Status](https://travis-ci.org/dancrumb/grunt-extract-copyright.svg?branch=master)](https://travis-ci.org/dancrumb/grunt-extract-copyright)
 
 > Grunt Plugin to extract copyright boilerplate from JavaScript files
 
